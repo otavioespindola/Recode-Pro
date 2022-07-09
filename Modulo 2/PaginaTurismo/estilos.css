@@ -3,13 +3,20 @@
 }
 
 .logo {
-    font-family: 'Permanent Marker', cursive;}
+    font-family: 'Permanent Marker', cursive;
+}
 
-.promo {
+.card {
+    padding: 0%;
+}
+
+.card__inline {
     display: flex;
     justify-content: space-around;
 }
 
 .row {
     margin-left: 0;
+    
 }
+

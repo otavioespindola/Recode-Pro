@@ -1,0 +1,15 @@
+.navbar-collapse {
+    flex-grow: 0;
+}
+
+.logo {
+    font-family: 'Permanent Marker', cursive;}
+
+.promo {
+    display: flex;
+    justify-content: space-around;
+}
+
+.row {
+    margin-left: 0;
+}

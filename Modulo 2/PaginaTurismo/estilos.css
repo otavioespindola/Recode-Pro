@@ -10,6 +10,18 @@
     padding: 0%;
 }
 
+.titulo__home {
+    font-size: 42pt;
+}
+
+.img__home {
+    opacity: 0.5;
+}
+
+.p__home {
+    font-size: 32pt;
+}
+
 .card__inline {
     display: flex;
     justify-content: space-around;
